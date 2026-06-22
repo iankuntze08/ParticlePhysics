@@ -1,7 +1,6 @@
-Ian Kuntze
-Repository: https://github.com/iankuntze08/ParticlePhysics.git
+### Repository: https://github.com/iankuntze08/ParticlePhysics.git
 
-# BUILDING AND RUNNING
+# Building & Running
 run buildrun.ps1 from the project directory
 thats it, the project should build + run
 ## OR
